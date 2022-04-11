@@ -154,3 +154,10 @@ let userNumber=60
 do {userNumber;
   userNumber + 6;} 
 while (userNumber <= 100);
+
+/*
+for(var i=1; i<=10; i++) {
+    console.log(num +" x " + i + " = " + (num*i) );
+}
+*/
+
